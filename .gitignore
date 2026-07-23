@@ -1,0 +1,10 @@
+# Secrets and session state — never commit these
+.env
+auth_state.json
+chrome-profile/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/

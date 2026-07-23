@@ -1,0 +1,44 @@
+Opening LinkedIn feed...
+Reading feed and selecting up to 5 interesting posts...
+
+======================================================================
+LEVEL 1 — READ & REACT
+======================================================================
+
+[1] Gregor Ojstersek
+    This is the reason why tracking LLM token usage as a success metric doesn't work! It's Goodhart's law: "When a measure becomes a target, it ceases to be a good measure." Measuring the wrong things ins
+    -> liked
+
+[2] Global Dev Experts
+    Developers, it’s time to choose a path 🚀🚀🚀🚀 Tech does not pause. It moves fast. And the gap between coders and architects keeps growing. That voice telling you there is more than just coding? It is no
+    -> liked
+
+[3] Luca Bonmassar
+    For years, I've sent an email to my entire engineering team every Friday. I have two rules for writing it: (1) It shouldn't take me more than 30 minutes to write. (2) It shouldn't take anyone more tha
+    -> liked
+
+[4] Jiri Krejsa
+    I asked some US engineering leaders why they would not hire a senior developer from Central Europe. Not one of them mentioned skill. CTOs in San Francisco, Austin, New York. The question was simple: y
+    -> liked
+
+[5] DOU
+    Досвідченим тестувальникам найбільше платять в аутстафінгових і продуктових компаніях Результати літнього зарплатного опитування по QA 👉🏻 https://dou.ua/goto/k6N8
+    -> liked
+
+======================================================================
+LEVEL 2 — DRAFT 3 THOUGHTFUL COMMENTS (not posted)
+======================================================================
+
+[4] Jiri Krejsa  (picked: 1390 chars)
+    Post: I asked some US engineering leaders why they would not hire a senior developer from Central Europe. Not one of them mentioned skill. CTOs in San Francisco, Aust
+    Draft comment: The tax law comment rings true. I've seen deals stall not because anyone doubted the engineer but because nobody wanted to own the invoicing headache. Curious how you handle the liability side when something does go wrong across borders.
+
+[3] Luca Bonmassar  (picked: 1287 chars)
+    Post: For years, I've sent an email to my entire engineering team every Friday. I have two rules for writing it: (1) It shouldn't take me more than 30 minutes to writ
+    Draft comment: The time constraints are the smart part here. A lot of leaders start these newsletters and quit after a month because they turn into a chore. Curious how often you skip a week when things get busy, or is it truly every Friday?
+
+[1] Gregor Ojstersek  (picked: 743 chars)
+    Post: This is the reason why tracking LLM token usage as a success metric doesn't work! It's Goodhart's law: "When a measure becomes a target, it ceases to be a good 
+    Draft comment: Story points are the one that always gets me. The second they become a target, estimates inflate and suddenly everything is an 8. Curious what you'd actually track instead for LLM adoption—something tied to outcomes rather than usage?
+
+Done.
