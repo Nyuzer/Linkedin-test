@@ -4,7 +4,7 @@ A Python + Playwright automation that reads the LinkedIn home feed, likes the
 most interesting posts, and drafts human-sounding comments with an AI assistant.
 
 - **Level achieved:** Level 2 (Read & React + Comment Thoughtfully)
-- **Actual time spent:** _<fill in — e.g. ~2h>_
+- **Actual time spent:** ~1.5 hours
 
 ---
 

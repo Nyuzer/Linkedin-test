@@ -5,40 +5,40 @@ Reading feed and selecting up to 5 interesting posts...
 LEVEL 1 — READ & REACT
 ======================================================================
 
-[1] Gregor Ojstersek
-    This is the reason why tracking LLM token usage as a success metric doesn't work! It's Goodhart's law: "When a measure becomes a target, it ceases to be a good measure." Measuring the wrong things ins
+[1] Cristian Maran
+    new week, new funny job pops up 😆 - Remote but not really remote - Hardware not provided What can go wrong?
     -> liked
 
-[2] Global Dev Experts
-    Developers, it’s time to choose a path 🚀🚀🚀🚀 Tech does not pause. It moves fast. And the gap between coders and architects keeps growing. That voice telling you there is more than just coding? It is no
+[2] Qdrant
+    Stop overprovisioning for RAG in Software Development. Legacy engines weren't built for vector scale, leading to resource waste and latency. Our guide breaks down indexing and compression tricks to ma
     -> liked
 
-[3] Luca Bonmassar
-    For years, I've sent an email to my entire engineering team every Friday. I have two rules for writing it: (1) It shouldn't take me more than 30 minutes to write. (2) It shouldn't take anyone more tha
+[3] Aryan Gupta
+    My API handled 10,000 requests flawlessly in testing. Crashed in production within 2 hours. The problem? I used the wrong API type. 🎁 Lately, I started learning Claude skills from this article: https:
+    -> failed (TimeoutError)
+
+[4] Madgeek®
+    Your 30% salary saving on an Eastern Europe ODC is a lie. I've seen too many VPs of Engineering look at a spreadsheet of Polish or Romanian base salaries and think they've found a cheat code for their
     -> liked
 
-[4] Jiri Krejsa
-    I asked some US engineering leaders why they would not hire a senior developer from Central Europe. Not one of them mentioned skill. CTOs in San Francisco, Austin, New York. The question was simple: y
-    -> liked
-
-[5] DOU
-    Досвідченим тестувальникам найбільше платять в аутстафінгових і продуктових компаніях Результати літнього зарплатного опитування по QA 👉🏻 https://dou.ua/goto/k6N8
+[5] Debasis Chakraborty
+    If you are a real creadible person like Victor Sir or Kev " Kevin " HSBC If someone is asking you 5-10 minutes quick call without agenda, without clear business or commercial opportunities.. They ask 
     -> liked
 
 ======================================================================
 LEVEL 2 — DRAFT 3 THOUGHTFUL COMMENTS (not posted)
 ======================================================================
 
-[4] Jiri Krejsa  (picked: 1390 chars)
-    Post: I asked some US engineering leaders why they would not hire a senior developer from Central Europe. Not one of them mentioned skill. CTOs in San Francisco, Aust
-    Draft comment: The tax law comment rings true. I've seen deals stall not because anyone doubted the engineer but because nobody wanted to own the invoicing headache. Curious how you handle the liability side when something does go wrong across borders.
+[3] Aryan Gupta  (picked: 2012 chars)
+    Post: My API handled 10,000 requests flawlessly in testing. Crashed in production within 2 hours. The problem? I used the wrong API type. 🎁 Lately, I started learning
+    Draft comment: The list mixes up categories though - REST vs GraphQL is a design style, while frontend-to-backend or service-to-database are just layers where any of those styles can live. Curious what the actual production crash was, since "wrong API type" is pretty vague.
 
-[3] Luca Bonmassar  (picked: 1287 chars)
-    Post: For years, I've sent an email to my entire engineering team every Friday. I have two rules for writing it: (1) It shouldn't take me more than 30 minutes to writ
-    Draft comment: The time constraints are the smart part here. A lot of leaders start these newsletters and quit after a month because they turn into a chore. Curious how often you skip a week when things get busy, or is it truly every Friday?
+[4] Madgeek®  (picked: 1218 chars)
+    Post: Your 30% salary saving on an Eastern Europe ODC is a lie. I've seen too many VPs of Engineering look at a spreadsheet of Polish or Romanian base salaries and th
+    Draft comment: The management tax point is real but I'd argue that's not unique to Eastern Europe, it's the cost of any team that isn't tightly integrated into your process. We had the same 15-hours-a-week alignment problem with a US contractor shop until we fixed the onboarding docs and handoff rituals.
 
-[1] Gregor Ojstersek  (picked: 743 chars)
-    Post: This is the reason why tracking LLM token usage as a success metric doesn't work! It's Goodhart's law: "When a measure becomes a target, it ceases to be a good 
-    Draft comment: Story points are the one that always gets me. The second they become a target, estimates inflate and suddenly everything is an 8. Curious what you'd actually track instead for LLM adoption—something tied to outcomes rather than usage?
+[5] Debasis Chakraborty  (picked: 303 chars)
+    Post: If you are a real creadible person like Victor Sir or Kev " Kevin " HSBC If someone is asking you 5-10 minutes quick call without agenda, without clear business
+    Draft comment: Recording someone without a clear reason is a fair thing to push back on, but I'd want to know the context that prompted this. What happened?
 
 Done.
